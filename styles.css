@@ -1,0 +1,26 @@
+.BigTitle {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #f2613f ;
+    text-align:center;
+  }
+  
+  .hero-section {
+    background-image: url('./images/web-3120321_1280.png');
+    background-size: cover;
+    background-position: center;
+    height: 30vh;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  
+    color: #842727;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+  }
+
+
+  
